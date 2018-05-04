@@ -1,1 +1,13 @@
+docutils
+lockfile
+pexpect
+protobuf==3.5.1
+ptyprocess
+py
+pytest
+python-daemon
+pyzmq
+sqlalchemy
 flake8
+globus-sdk
+xxhash
