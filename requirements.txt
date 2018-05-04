@@ -1,3 +1,4 @@
+setuptools==39.1.0
 docutils
 lockfile
 pexpect
